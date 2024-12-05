@@ -2,9 +2,6 @@
 
 ## Software Versions
 
-[V1.07 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/9099c968b1c67757556f3dae5586f07cdd62c891/Firmware/V1.07.zip)
-- Fixed a bug that causes the unit to not send signal through the hard wire DMX port when it is receiving a D-Fi signal
-
 [V1.0 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/b7bbfd5e181b2707c9e82f3a3799c86493d94c71/Firmware/V1.0.zip)
 - Released initial software version
 
