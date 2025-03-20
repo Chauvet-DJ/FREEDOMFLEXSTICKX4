@@ -15,7 +15,7 @@
 ### For Freedom Flex Sticks with the battery connected
 1. Download the zip file onto your computer and extract the folder.
 2. Transfer the contents from the zip file onto a USB thumb drive, making sure that the only file on the drive is the software and that it's in the root directory (not in a folder).
-3. Hold the **MODE** button, and turn the battery on.
+3. Hold the **MENU** button, and turn the battery on.
 4. When the display reads ***"Please connect USB stick!"*** insert it into the USB-C connector closest to the display.
 5. When the display shows the Chauvet DJ logo, the USB thumb drive can be removed.
 
