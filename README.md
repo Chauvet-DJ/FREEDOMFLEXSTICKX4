@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.03 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/1156d4059134018623b327cb5b46691ea676e66b/Firmware/V1.03.zip)
+- Added 3rd slave and changed firmware upload method
+
 [V1.0 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/b7bbfd5e181b2707c9e82f3a3799c86493d94c71/Firmware/V1.0.zip)
 - Released initial software version
 
