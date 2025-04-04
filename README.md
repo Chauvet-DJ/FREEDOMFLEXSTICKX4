@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.07 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/98ba8d92e19564621ffeb3b9a6023efc809ffbfd/Firmware/V1.07.zip)
+- Added 4th fixture to work as a slave in runway mode
+- Fixed bug with FG/BG color mixing
+
 [V1.05 - Freedom Flex Stick X4](https://github.com/Chauvet-DJ/FREEDOMFLEXSTICKX4/blob/59dbff4d5322d2afcd1fca8a47e833873c0601ba/Firmware/V1.05.zip)
 - Added 3rd fixture to work as a slave
 
